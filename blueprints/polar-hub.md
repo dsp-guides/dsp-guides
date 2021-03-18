@@ -12,7 +12,7 @@ polar_mid_game_v1.0:H4sIAAAAAAAAC+y9XY8lN5Il+F/yufyCpBm/9DjYGaCwi91FD7DAYjEPNVXZ
 ## Polar Late Game
 
 - 8 stations in a ring requesting basic buildings.
-- Star ring around for power. Requests antimatter ring.
+- Star ring around for power. Requests antimatter.
 - Have to manually fill 5-6 stars to kickstart.
 
 ```
